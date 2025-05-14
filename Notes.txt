@@ -1,0 +1,7 @@
+hypbrid matching : BM25 + semantic reranking 
+Use rank_bm25 to compute the top N CVs for the job description
+Use sentence-bert from sentence-tranformers to embed both the job description and top CVs
++ we can add domain-specific tuning bu fine-tuning Sbert with our CV/job data
+In brief, we first use bm25 to reduce the full set of CVs to smaller set without deciding the final ranking, then we let semantic similarity decide whiche CVs are most relevant in meaning.
+
+* Another option is to combine both scores (BM25 + SBert scores) for a hybrid approach.
