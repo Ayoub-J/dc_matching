@@ -1,0 +1,73 @@
+[
+    {
+      "nom_prenom": "Jean Dupont",
+      "competences": ["Python", "SQL", "Pandas", "Machine Learning"],
+      "soft_skills": ["Travail en équipe", "Communication"],
+      "experiences_professionnelles": ["Data Analyst chez AXA (2 ans)", "Stage en data science chez Capgemini"],
+      "formation": "Master en Data Science à l'université de Paris"
+    },
+    {
+      "nom_prenom": "Sophie Martin",
+      "competences": ["Java", "Spring", "Hibernate", "MySQL"],
+      "soft_skills": ["Organisation", "Autonomie"],
+      "experiences_professionnelles": ["Développeuse backend chez Sopra Steria (3 ans)"],
+      "formation": "Master en Informatique à l'université de Lyon"
+    },
+    {
+      "nom_prenom": "Amine Benali",
+      "competences": ["Power BI", "Excel", "SQL", "Reporting"],
+      "soft_skills": ["Esprit d'analyse", "Résolution de problèmes"],
+      "experiences_professionnelles": ["Business Analyst chez BNP Paribas (2 ans)"],
+      "formation": "Master en Contrôle de Gestion à Dauphine"
+    },
+    {
+      "nom_prenom": "Lucie Moreau",
+      "competences": ["Python", "TensorFlow", "Deep Learning"],
+      "soft_skills": ["Curiosité", "Créativité"],
+      "experiences_professionnelles": ["Stage IA chez Thales", "Projet personnel en vision par ordinateur"],
+      "formation": "Master Intelligence Artificielle à CentraleSupélec"
+    },
+    {
+      "nom_prenom": "Thomas Lefevre",
+      "competences": ["R", "Statistiques", "Data Visualisation"],
+      "soft_skills": ["Adaptabilité", "Prise d'initiative"],
+      "experiences_professionnelles": ["Chargé d'études statistiques chez INSEE"],
+      "formation": "Master Statistiques et Économétrie à Toulouse School of Economics"
+    },
+    {
+      "nom_prenom": "Fatima Zahra",
+      "competences": ["HTML", "CSS", "JavaScript", "React"],
+      "soft_skills": ["Sens du détail", "Collaboration"],
+      "experiences_professionnelles": ["Développeuse front-end freelance", "Stage chez Orange Innovation"],
+      "formation": "Licence Informatique à l'université de Montpellier"
+    },
+    {
+      "nom_prenom": "Karim Boulahya",
+      "competences": ["Linux", "Docker", "Kubernetes", "CI/CD"],
+      "soft_skills": ["Esprit critique", "Autonomie"],
+      "experiences_professionnelles": ["Ingénieur DevOps chez Dassault Systèmes"],
+      "formation": "Master Systèmes et Réseaux à l’INSA Lyon"
+    },
+    {
+      "nom_prenom": "Claire Dubois",
+      "competences": ["Python", "NLP", "Spacy", "Scikit-learn"],
+      "soft_skills": ["Curiosité", "Rigueur"],
+      "experiences_professionnelles": ["Stage NLP chez EDF", "Projet de fin d'études sur la classification de texte"],
+      "formation": "Master IA à Polytechnique"
+    },
+    {
+      "nom_prenom": "Yassine Khadir",
+      "competences": ["Salesforce", "CRM", "Power BI"],
+      "soft_skills": ["Orientation client", "Esprit d'équipe"],
+      "experiences_professionnelles": ["Consultant CRM chez Capgemini"],
+      "formation": "Master Marketing Digital à KEDGE Business School"
+    },
+    {
+      "nom_prenom": "Julie Robert",
+      "competences": ["SQL", "ETL", "Talend", "Data Warehouse"],
+      "soft_skills": ["Autonomie", "Capacité d'analyse"],
+      "experiences_professionnelles": ["Consultante BI chez Accenture"],
+      "formation": "Master Big Data à Telecom Paris"
+    }
+  ]
+  
