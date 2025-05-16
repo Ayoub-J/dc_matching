@@ -1,0 +1,95 @@
+{
+  "informations_personnelles": {
+    "nom": "Houssam",
+    "prenom": "Najih",
+    "email": "houssam1.najih@gmail.com",
+    "telephone": "+33 651016869",
+    "adresse": "Paris, France"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master Data et AI",
+      "ecole": "HEC Paris",
+      "dates": "2023-2025"
+    },
+    {
+      "diplome": "Licence en génie informatique",
+      "ecole": "Université Hassan I",
+      "dates": "2018-2022"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "HACKATHON DATA Project",
+      "poste": "Data Analyst / Scientist",
+      "dates": "Mai 2024",
+      "description": [
+        "Analyse des données et structure grossière de l'e-commerce en ligne."
+      ]
+    },
+    {
+      "entreprise": "Projet",
+      "poste": "Data Analyst",
+      "dates": "Avril 2024",
+      "description": [
+        "Analyse d'un ensemble diversifié de données sur la présence des employés d'une entreprise en utilisant Power BI.",
+        "Compréhension des exigences de l'entreprise et utilisation de Power Query pour collecter et transformer les données Excel.",
+        "Utilisation de DAX pour créer des mesures personnalisées et des visualisations approfondies.",
+        "Analyse des besoins futurs des parties prenantes après la livraison d'un RV avec un focus sur les besoins RH et les besoins généraux des entreprises."
+      ]
+    },
+    {
+      "entreprise": "Projet",
+      "poste": "Data Analyst",
+      "dates": "Décembre 2023",
+      "description": [
+        "Analyse exhaustive de la pandémie de COVID-19 : Exploration, Visualisation et Insights.",
+        "Création et analyse des données COVID-19 avec SQL pour des analyses exploratoires approfondies.",
+        "Création des tableaux de bord et visualisation des tendances globales de la pandémie avec des tableaux extraits des insights analytiques."
+      ]
+    },
+    {
+      "entreprise": "Développement base de données",
+      "poste": "Stage PFE",
+      "dates": "Avril 2022-Juillet 2022",
+      "description": [
+        "Gestion d'une base de données réparties sur des serveurs Oracle.",
+        "Création d'un réseau virtuel avec trois serveurs Oracle, mise en place de comptes et lignes de base de données, et création d'une base de données centrale et ses fragments.",
+        "Gestion de la synchronisation des insertions, des suppressions et des mises à jour des données en utilisant les Triggers. Technologies utilisées : SQL, PL/SQL, Oracle."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Python, C, Java, Scala, SQL, VBA, GitHub/Git",
+    "ETL, Pandas, Numpy, Matplotlib, Celerity, Apache Airflow",
+    "Apache Spark, Hadoop, Kafka, GCP",
+    "PostgreSQL, Cassandra, Redshift, Oracle",
+    "Power BI, Tableau, Looker Studio",
+    "Scikit-Learns, NLP (Nltk, Spacy)",
+    "Réseau de neurones, Tensorflow, Pytorch"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Avancé"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Intermédiaire"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Langue maternelle"
+    }
+  ],
+  "certifications": [
+    "2023 - Understanding Data Engineering & Analytics Delivré par DATACAMP"
+  ],
+  "_metadata": {
+    "filename": "CV.pdf",
+    "analyzed_at": "2025-05-16 15:43:34",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "total_cvs_processed": 9,
-  "total_cvs_vectorized": 9,
+  "total_cvs_processed": 10,
+  "total_cvs_vectorized": 10,
   "tokens_directory": "output\\vectorisation\\tokens",
   "vectors_directory": "output\\vectorisation\\vectors",
   "models_directory": "output\\vectorisation\\models",
@@ -8,6 +8,7 @@
     "Alternance_kawtar_CV",
     "cv (8)",
     "CV_alternance_DS_DE_NV",
+    "CV",
     "CV_Ayoub JELLOULI_DD",
     "CV_KhaldiOmar 1",
     "Fares SAKER",
