@@ -1,0 +1,82 @@
+{
+  "informations_personnelles": {
+    "nom": "KOURSI",
+    "prenom": "Nora",
+    "email": "nora.koursigmail.com",
+    "telephone": "+33 7 64 20 02 45",
+    "adresse": "4 rue Fernand Léger Fontenay-Sous-Bois"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master Data & Intelligence Artificielle",
+      "ecole": "HETIC (Montreuil, France)",
+      "dates": "2023-2025"
+    },
+    {
+      "diplome": "Licence en Informatique option Base de Données",
+      "ecole": "Faculté des Sciences Ain Chock (Maroc)",
+      "dates": "2020-2023"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "HETIC Montreuil",
+      "poste": "Data Scientist",
+      "dates": "Janvier 2024",
+      "description": [
+        "Projet Planification du raccordement électrique de bâtiments."
+      ]
+    },
+    {
+      "entreprise": "HETIC Montreuil",
+      "poste": "Data Analyst",
+      "dates": "Février 2024",
+      "description": [
+        "Projet d'évaluation météorologique - HETIC Montreuil.",
+        "Collecte et prétraitement des données météorologiques à partir d'API spécialisées.",
+        "Intégration et traitement des données météorologiques via Pandas pour la data visualisation.",
+        "Visualisation des prévisions météo de manière accessible et informative à l'aide de Seaborn et Plotly."
+      ]
+    },
+    {
+      "entreprise": "Faculté des Sciences Ain Chock (Maroc)",
+      "poste": "Développeur d'Application",
+      "dates": "Mars 2023 - Mai 2023",
+      "description": [
+        "Conception et développement d'une application web de gestion des réservations des salles d'opération hospitalières.",
+        "Supervision efficace des médecins, des patients et des salles d'opération par les administrateurs hospitaliers.",
+        "Amélioration du flux de travail pour une réservation simplifiée des salles chirurgicales par les professionnels de la santé.",
+        "Utilisation des technologies : HTML, CSS, JavaScript, PHP, Bootstrap."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Data visualisation",
+    "Traitement de données",
+    "Langages & Frameworks",
+    "Machine Learning",
+    "Base de Données"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Intermédiaire"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Maternelle"
+    }
+  ],
+  "certifications": [],
+  "_metadata": {
+    "filename": "MonCVAl_A.pdf",
+    "analyzed_at": "2025-05-15 22:38:13",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

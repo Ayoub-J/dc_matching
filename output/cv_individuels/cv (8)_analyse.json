@@ -1,0 +1,88 @@
+{
+  "informations_personnelles": {
+    "nom": "SASSIOUI",
+    "prenom": "Mohcine",
+    "email": "sassiouimohcine2000@gmail.com",
+    "telephone": "+33 6 12 59 73 61",
+    "adresse": "Mobile Nationale, France"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Diplôme d'ingénieur en informatique (Double Diplôme)",
+      "ecole": "École nationale supérieure Mines-Télécom Lille Douai (IMT Nord Europe)",
+      "dates": "2022 – 2024"
+    },
+    {
+      "diplome": "Diplôme d'ingénieur en informatique",
+      "ecole": "École Nationale Supérieure des Mines de Rabat (ENSMR)",
+      "dates": "2020 – 2024"
+    },
+    {
+      "diplome": "Classes Préparatoires aux Grandes Écoles",
+      "ecole": "Lycée Moulay Idriss (CPGE)",
+      "dates": "2018 – 2020"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "Devoteam",
+      "poste": "Stage Consultant Data/Engineer - Observabilité/IA",
+      "dates": "Mars 2024 – Septembre 2024",
+      "description": [
+        "Développement de solutions IA pour l'optimisation des données dans un environnement de microservices cloud.",
+        "Mise en place de modèles ML distribués avec Apache Spark pour la détection d'anomalies.",
+        "Déploiement des modèles sur Kubernetes et supervision avec Prometheus.",
+        "Technologies : Python, Kubernetes, Apache Spark, Prometheus, Machine Learning, LSTM, Git."
+      ]
+    },
+    {
+      "entreprise": "Smart Building Energies (Vinci)",
+      "poste": "Stage Consultant Data Scientist",
+      "dates": "Avril 2023 – Septembre 2023",
+      "description": [
+        "Développement et déploiement de modèles de Machine Learning et Deep Learning (LSTM, RNN) pour la prédiction de la consommation énergétique.",
+        "Conception de tableaux de bord interactifs avec Power BI et Seaborn pour une analyse optimisée des tendances et anomalies.",
+        "Orchestration des modèles sur Azure Machine Learning et exploitation des données via SQL et KQL sur Azure Cloud.",
+        "Technologies : Python, TensorFlow, Azure ML, KQL, SQL, Power BI, Seaborn, Git, Azure Data Explorer."
+      ]
+    },
+    {
+      "entreprise": "Socotec",
+      "poste": "Stage en gestion de données",
+      "dates": "Août 2021 – Septembre 2021",
+      "description": [
+        "Développement d'un dashboard interactif pour le suivi des indicateurs de performance.",
+        "Automatisation de rapports décisionnels pour améliorer la transparence des processus.",
+        "Technologies : VBA, Excel, Power BI."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Langages de Programmation : Python, SQL, Java",
+    "Analyse de Données et Visualisation : Power BI, Tableau, Pandas, NumPy, Matplotlib",
+    "Modélisation et Optimisation : Machine Learning, Régression, Clustering, Séries Temporelles",
+    "Cloud et Big Data : Azure (ADX, Data Factory), Google Cloud Platform (BigQuery), Spark",
+    "Outils de Gestion : Git, Agile (Scrum)"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "bilingue"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "professionnel"
+    }
+  ],
+  "certifications": [
+    "Neural Networks and Deep Learning (DeepLearning.AI)",
+    "Google Cloud Big Data and Machine Learning Fundamentals (Coursera)"
+  ],
+  "_metadata": {
+    "filename": "cv (8).pdf",
+    "analyzed_at": "2025-05-15 22:36:31",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

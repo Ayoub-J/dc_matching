@@ -1,0 +1,97 @@
+{
+  "job_offer": "prompt_offre.txt",
+  "matching_timestamp": [
+    2025,
+    5,
+    16,
+    13,
+    25,
+    44,
+    4,
+    136,
+    1
+  ],
+  "results": [
+    {
+      "cv_id": "CV_KhaldiOmar 1",
+      "nom": "KHALDI",
+      "prenom": "Omar",
+      "email": "omar_khaldi@hotmail.fr",
+      "score": 1.0,
+      "bm25_score": 0.7999002282826573,
+      "vector_score": 1.0
+    },
+    {
+      "cv_id": "CV_Ayoub JELLOULI_DD",
+      "nom": "Jellouli",
+      "prenom": "Ayoub",
+      "email": "jelloulayouba@gmail.com",
+      "score": 0.9998069089968239,
+      "bm25_score": 0.8218678560585252,
+      "vector_score": 0.9998069089968239
+    },
+    {
+      "cv_id": "Kenza_OUYAHIA",
+      "nom": "OUYAHIA",
+      "prenom": "Kenza",
+      "email": "ouyahia.kenza@outlook.com",
+      "score": 0.6093751061289057,
+      "bm25_score": 0.7869722573107838,
+      "vector_score": 0.6093751061289057
+    },
+    {
+      "cv_id": "Fares SAKER",
+      "nom": "Saker",
+      "prenom": "Fares",
+      "email": "fares.saker29@gmail.com",
+      "score": 0.4359839864432692,
+      "bm25_score": 1.0,
+      "vector_score": 0.4359839864432692
+    },
+    {
+      "cv_id": "GHORBEL_Ghassen_CV 1",
+      "nom": "GHORBEL",
+      "prenom": "Ghassen",
+      "email": "ghassenghorbel2000@gmail.com",
+      "score": 0.3813936634989325,
+      "bm25_score": 0.3858715845814242,
+      "vector_score": 0.3813936634989325
+    },
+    {
+      "cv_id": "CV_alternance_DS_DE_NV",
+      "nom": "Hamza",
+      "prenom": "Ajermoun",
+      "email": "hamzaajermoun06@gmail.com",
+      "score": 0.20482415788404335,
+      "bm25_score": 0.3446714111132276,
+      "vector_score": 0.20482415788404335
+    },
+    {
+      "cv_id": "Alternance_kawtar_CV",
+      "nom": "MOUH",
+      "prenom": "KAWTAR BEN",
+      "email": "kawtarbenmouh221@gmail.com",
+      "score": 0.19455495993698213,
+      "bm25_score": 0.22760940923384929,
+      "vector_score": 0.19455495993698213
+    },
+    {
+      "cv_id": "MonCVAl_A",
+      "nom": "KOURSI",
+      "prenom": "Nora",
+      "email": "nora.koursigmail.com",
+      "score": 0.122428351362564,
+      "bm25_score": 0.28137741524909515,
+      "vector_score": 0.122428351362564
+    },
+    {
+      "cv_id": "cv (8)",
+      "nom": "SASSIOUI",
+      "prenom": "Mohcine",
+      "email": "sassiouimohcine2000@gmail.com",
+      "score": 0.11609591684885581,
+      "bm25_score": 0.27772695314115925,
+      "vector_score": 0.11609591684885581
+    }
+  ]
+}

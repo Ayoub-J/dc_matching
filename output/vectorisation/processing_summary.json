@@ -1,0 +1,18 @@
+{
+  "total_cvs_processed": 9,
+  "total_cvs_vectorized": 9,
+  "tokens_directory": "output\\vectorisation\\tokens",
+  "vectors_directory": "output\\vectorisation\\vectors",
+  "models_directory": "output\\vectorisation\\models",
+  "cv_ids": [
+    "Alternance_kawtar_CV",
+    "cv (8)",
+    "CV_alternance_DS_DE_NV",
+    "CV_Ayoub JELLOULI_DD",
+    "CV_KhaldiOmar 1",
+    "Fares SAKER",
+    "GHORBEL_Ghassen_CV 1",
+    "Kenza_OUYAHIA",
+    "MonCVAl_A"
+  ]
+}

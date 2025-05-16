@@ -1,0 +1,105 @@
+{
+  "informations_personnelles": {
+    "nom": "GHORBEL",
+    "prenom": "Ghassen",
+    "email": "ghassenghorbel2000@gmail.com",
+    "telephone": "+33 781118506",
+    "adresse": "1 avenue della republica Bonneuil sur Marne 94380"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Diplôme d'Ingénieur Génie Informatique (Data Science)",
+      "ecole": "École Supérieure Privée d'Ingénierie et de Technologies ESPRIT",
+      "dates": "Sep 2020 – Nov 2025"
+    },
+    {
+      "diplome": "Baccalauréat Scientifique",
+      "ecole": "Lycée Mahmoud Megdiche",
+      "dates": "Sep 2017 – Juin 2020"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "Rainbow Partners",
+      "poste": "Stage développeur IA",
+      "dates": "Janvier 2025 – Juillet 2025",
+      "description": [
+        "Conception et développement d’une solution d’assistance intelligente basée sur GPT Azure OpenAI pour répondre aux cas d’usage métiers dans un contexte de conseil."
+      ]
+    },
+    {
+      "entreprise": "BPCE Vie",
+      "poste": "Stage en DataScience",
+      "dates": "Jan 2024 – Oct 2024",
+      "description": [
+        "Modélisation / analyse statistique des réseaux de crédit en ADE (RStudio)"
+      ]
+    },
+    {
+      "entreprise": "CliniSys",
+      "poste": "Stage en Analyse de données",
+      "dates": "Jan 2023 – Oct 2023",
+      "description": [
+        "Analyse de données et création de tableaux de bord sur la fécondation in vitro en utilisant Power BI."
+      ]
+    },
+    {
+      "entreprise": "BPCE Solutions Informatiques",
+      "poste": "Stage en Analyse de données",
+      "dates": "Jan 2022 – Septembre 2022",
+      "description": [
+        "Analyse de données et création de tableaux de bord avec Cognos Analytics."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Machine Learning",
+    "Deep Learning",
+    "Python",
+    "TensorFlow",
+    "Pytorch",
+    "NLP",
+    "Hive",
+    "RStudio",
+    "NumPy",
+    "Pandas",
+    "MySQL",
+    "SQL",
+    "Big Data",
+    "Hadoop",
+    "C++",
+    "FastAPI",
+    "PHP",
+    "PowerBI",
+    "Statistiques",
+    "Microsoft Office",
+    "NET",
+    "MongoDB"
+  ],
+  "langues": [
+    {
+      "langue": "Arabe",
+      "niveau": "Langue maternelle"
+    },
+    {
+      "langue": "Français",
+      "niveau": "Bilingue"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Courant"
+    }
+  ],
+  "certifications": [
+    "DeepLearning.AI : Linear Algebra for Machine Learning",
+    "Learning and DataScience",
+    "NVIDIA : Building Transformer Based Natural Language Processing App"
+  ],
+  "_metadata": {
+    "filename": "GHORBEL_Ghassen_CV 1.pdf",
+    "analyzed_at": "2025-05-15 22:37:45",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

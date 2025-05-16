@@ -1,0 +1,86 @@
+{
+  "informations_personnelles": {
+    "nom": "OUYAHIA",
+    "prenom": "Kenza",
+    "email": "ouyahia.kenza@outlook.com",
+    "telephone": "06 62 63 08 46",
+    "adresse": "Lyon, France"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master 2 en Recherche opérationnelle par courtes méthodes mathématiques et technique de décision",
+      "ecole": "Université Abderrahmane Mira , Bejaia, Algérie",
+      "dates": "Sept. 2015 - Sept. 2020"
+    },
+    {
+      "diplome": "Master 2 en Systèmes Distribués et Technologies de Data Science",
+      "ecole": "Université Paris-EST, Créteil, France",
+      "dates": "Sept. 2023 - Sept. 2024"
+    },
+    {
+      "diplome": "Master 2 en Data et Intelligence Artificielle",
+      "ecole": "Hetic, Montreuil, France",
+      "dates": "Déc. 2024 - Nov. 2025"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "Roquette Frères, Lestrem, France",
+      "poste": "Data management / Disqueur UX & UI (Stage)",
+      "dates": "Juin 2024 - Nov. 2024",
+      "description": [
+        "Création du tableau de bord des KPI du procédé de formulation pharmaceutique (compression directe).",
+        "Création d’une maquette UX/UI d’un assistant virtuel de formulation pharmaceutique.",
+        "Recueil des données psycho-chimiques des actifs à partir de diverses sources."
+      ]
+    },
+    {
+      "entreprise": "Mon Jardin Bio, Taourirt, Algérie",
+      "poste": "Assistante Supply Chain",
+      "dates": "Jan. 2021 - Août 2023",
+      "description": [
+        "Gestion des stocks et gestion des relations avec les clients et les fournisseurs.",
+        "Planification logistique et organisation de la chaîne d’approvisionnement."
+      ]
+    },
+    {
+      "entreprise": "Log Services, Chaponnay, France",
+      "poste": "Analyste BI (Alternance)",
+      "dates": "Depuis déc. 2024",
+      "description": [
+        "Recueillir et assurer la qualité des données ainsi que le respect des règles de gestion et de la logique des attributs.",
+        "Concevoir et générer des reporting et des dashboards pour le suivi et l’analyse de la gestion de stock.",
+        "Participer à l’analyse des données pour quatre des insights et aider à la prise de décision."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Python / Java",
+    "SQL",
+    "Anaconda, PyCharm, Eclipse, VS Code, Power BI, Cognos BI, Figma",
+    "Tensorflow, Scikit-learn, Pytorch, OpenCV, Flask, Streamlit, Spring Boot",
+    "Numpy, Pandas, Scipy, seaborn, Matplotlib",
+    "PostgreSQL, MySQL, PhpMyAdmin"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Intermédiaire"
+    }
+  ],
+  "certifications": [
+    "Application de rapprochement automatique entre reçus et relevés bancaires",
+    "Projet NLP - Analyse de commentaires multilingues Airbnb"
+  ],
+  "_metadata": {
+    "filename": "Kenza_OUYAHIA.pdf",
+    "analyzed_at": "2025-05-15 22:38:00",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

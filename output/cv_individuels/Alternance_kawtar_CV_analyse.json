@@ -1,0 +1,92 @@
+{
+  "informations_personnelles": {
+    "nom": "MOUH",
+    "prenom": "KAWTAR BEN",
+    "email": "kawtarbenmouh221@gmail.com",
+    "telephone": "06 08 53 82 61",
+    "adresse": "Mobilité - FRANCE entière"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master en Data & IA",
+      "ecole": "HETIC, Montréal",
+      "dates": "2023 - 2025"
+    },
+    {
+      "diplome": "Licence professionnelle génie informatique",
+      "ecole": "Faculté Polydisciplinaire, Taroudant",
+      "dates": "2022 - 2023"
+    },
+    {
+      "diplome": "DUT informatique",
+      "ecole": "École Supérieure de Technologie, Guelmim",
+      "dates": "2020 - 2022"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "Mobilité - FRANCE entière",
+      "poste": "Data Analyst",
+      "dates": "2024 - 01/09/2024",
+      "description": [
+        "Collecte et prétraitement de données météorologiques à partir des mécanismes d'API en utilisant Python.",
+        "Modélisation météorologique en utilisant les bibliothèques NumPy et Pandas pour manipuler, analyser et préparer les données.",
+        "Mise en place d'une interface utilisateur conviviale pour permettre aux utilisateurs d'accéder facilement aux prévisions météorologiques."
+      ]
+    },
+    {
+      "entreprise": "Académie Régionale d'Éducation - Stagiaire",
+      "poste": "Développeur d'application web",
+      "dates": "2023 - AGADIR",
+      "description": [
+        "Conception et réalisation d'une application web de gestion de l'eau et de l'électricité en utilisant PHP et le framework Laravel.",
+        "Intégration d'une base de données MySQL pour garantir une gestion efficace des données.",
+        "Utilisation de UML pour la conception de l'application, assurant ainsi une planification et une modélisation efficaces du système."
+      ]
+    },
+    {
+      "entreprise": "Ste ULTRA SOFT - Stagiaire",
+      "poste": "Développeur d'application desktop",
+      "dates": "2022 - AGADIR",
+      "description": [
+        "Conception et réalisation d'une application desktop de gestion des employés en utilisant C#.",
+        "Intégration d'une base de données MySQL pour garantir une gestion efficace des données.",
+        "Utilisation de UML pour la conception de l'application, assurant ainsi une planification et une modélisation efficaces du système."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Data visualisation : Power BI, Looker, Matplotlib, Seaborn",
+    "Traitement des données : Pandas, Numpy, Excel",
+    "Langages de programmation : Python, HTML, CSS, JavaScript",
+    "Système de gestion de base de données : MySQL, Oracle",
+    "Machine learning : Scikit-learn, NLP",
+    "Modélisation : Merise, UML"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Intermédiaire (B2)"
+    },
+    {
+      "langue": "Espagnol",
+      "niveau": "Notions"
+    }
+  ],
+  "certifications": [
+    "Master data & artificial intelligence, HETIC, Montréal, 2023 - 2025",
+    "Licence professionnelle génie informatique, Faculté Polydisciplinaire, Taroudant, 2022 - 2023",
+    "DUT informatique, École Supérieure de Technologie, Guelmim, 2020 - 2022"
+  ],
+  "_metadata": {
+    "filename": "Alternance_kawtar_CV.pdf",
+    "analyzed_at": "2025-05-15 22:36:14",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

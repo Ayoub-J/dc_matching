@@ -1,0 +1,88 @@
+{
+  "informations_personnelles": {
+    "nom": "Jellouli",
+    "prenom": "Ayoub",
+    "email": "jelloulayouba@gmail.com",
+    "telephone": "07 51 09 09 57",
+    "adresse": "15 Rue Sainte-Hélène, 59110, La Madeleine"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master DATA & IA",
+      "ecole": "HETIC, Paris",
+      "dates": "2024-2025"
+    },
+    {
+      "diplome": "Master Architecte Logiciel, Développeur d’Application",
+      "ecole": "Ecole des Technologies Avancées, Lyon",
+      "dates": "2023-2024"
+    },
+    {
+      "diplome": "Bachelor Responsable de projet Web et Mobile",
+      "ecole": "Ecole des Technologies Avancées, Lyon",
+      "dates": "2021-2022"
+    },
+    {
+      "diplome": "Master 1 Ingénierie Thermique et Énergétique",
+      "ecole": "Université Franche-comté, UFR-STGI, Belfort",
+      "dates": "2019-2020"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "VINCI ENERGIES - Pole Nucléaire, Lille - France",
+      "poste": "Apprenti - Ingénieur Etude en Informatique",
+      "dates": "Juillet 2023 - Mars 2024",
+      "description": [
+        "Accompagné les BUs du pôle Nucléaire dans leurs processus de digitalisation et développement de solutions numériques."
+      ]
+    },
+    {
+      "entreprise": "Omexom Nucléaire Solution Numérique, Lille - France",
+      "poste": "Apprenti Ingénieur Projet - Développeur",
+      "dates": "Avril 2021 - Juin 2021",
+      "description": [
+        "Collaboré avec les équipes pour comprendre et analyser leurs besoins et leurs proposer des solutions adaptées.",
+        "Conçu et optimisé des bases de données avec MySQL Workbench.",
+        "Conçu, développé et maintenu les pipelines de données avec Apache NiFi.",
+        "Développé des scripts en open-cv pour automatiser des processus liés à la gestion des données en utilisant Power Automate & TeePe.",
+        "Assuré la qualité et la fiabilité des données tout au long du processus de traitement.",
+        "Reporting dynamique et visualisations avancées avec Power BI.",
+        "Labelisé les données (Flux de vidéos) en utilisant LABELBOX.",
+        "Conçu et développé un modèle IA pour la détection des défauts sur des assemblages de combustibles avec Python, open-cv, Pytorch, Scikit-learn & streamlit."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Python, SQL, Php, C, C#, Javascript, Shell",
+    "MySQL, MariaDB, PostgreSQL",
+    "Tensorflow, Pytorch, Scikit-learn, Keras, Laravel, Symfony, Django, .NET",
+    "TeePeep Forms, Wamp Server, Git, VSCode, Power BI, Pack Microsoft Office",
+    "Windows, Linux/Unix"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Bilingue"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Professionnel"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Bilingue"
+    }
+  ],
+  "certifications": [
+    "Intelligence Artificielle : Lingua Signé - Développement d’un modèle IA à l’aide d’algorithmes de Deep Learning pour la conversion de langues des signes en texte.",
+    "SCAPE - Développement d’un modèle de prédiction de la population en se basant sur la croissance des 5 dernières années pour un logiciel SIG."
+  ],
+  "_metadata": {
+    "filename": "CV_Ayoub JELLOULI_DD.pdf",
+    "analyzed_at": "2025-05-15 22:37:04",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

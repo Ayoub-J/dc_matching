@@ -1,0 +1,94 @@
+{
+  "informations_personnelles": {
+    "nom": "KHALDI",
+    "prenom": "Omar",
+    "email": "omar_khaldi@hotmail.fr",
+    "telephone": "+33 780 74 55 36",
+    "adresse": "Ile-de-France"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master 2 Architecte logiciel, spé. BIG DATA",
+      "ecole": "Ecole des Technologies Numériques Avancées (ETNA)",
+      "dates": "2022 - 2024"
+    },
+    {
+      "diplome": "Bachelor Concepteur Développeur d'Applications",
+      "ecole": "Ecole des Technologies Numériques Avancées (ETNA)",
+      "dates": "2021 - 2022"
+    },
+    {
+      "diplome": "Licence Pro Mathématiques et Informatique",
+      "ecole": "Université Hassan II, Casablanca",
+      "dates": "2018 - 2019"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "Exia - Tours",
+      "poste": "Consultant Data Analyst",
+      "dates": "Décembre 2024 - Présent",
+      "description": [
+        "Migration de processus SAS : Dataiku pour l’analyse et le suivi des contrats d’assurance santé.",
+        "Automatisation du contrôle qualité et validation des données via des scripts Python.",
+        "Conception d’ETL sous Dataiku et visualisation des analyses.",
+        "Calcul et suivi des KPI assurance."
+      ]
+    },
+    {
+      "entreprise": "Fujitsu - La Défense",
+      "poste": "Data Analyst en alternance",
+      "dates": "Juillet 2022 - Septembre 2024",
+      "description": [
+        "Reportings dynamiques et visualisations avancées avec PowerBI.",
+        "Automatisation et config de pipelines sur Azure et Dataiku.",
+        "Stockage, transformation, nettoyage et gouvernance de données.",
+        "Dev d’applications web avec ReactJS/ Django.",
+        "IA générative: RAG - Fine-tuning - Prompt Engineering."
+      ]
+    },
+    {
+      "entreprise": "ATOS - Bezons",
+      "poste": "Développeur Data en alternance",
+      "dates": "Juillet 2021 - Mai 2022",
+      "description": [
+        "Automatisation via scripts de déploiement (Python - JS - VBA).",
+        "Développement d’outils pour analyse et suivi des KPI (VBA - Formules avancées, Power query, Pivot tables).",
+        "Visualisation des données préparées sur Power BI.",
+        "Participation à la conception et au développement d’une App de planification RH."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Analyse des données : SQL - Python (Numpy - Pandas)",
+    "Power BI (Avancé) - Dataiku - Excel - SAS",
+    "Data Engineering : Azure - Apache - GI - SQL Server - Postgres - ETL",
+    "Développement & IA : ReactJS - Django - Docker",
+    "GenAI (RAG - Fine-tuning - Prompt Engineering)"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Courant"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Professionnel (B2)"
+    }
+  ],
+  "certifications": [
+    "Certification en analyse de données",
+    "Certification en développement d'applications"
+  ],
+  "_metadata": {
+    "filename": "CV_KhaldiOmar 1.pdf",
+    "analyzed_at": "2025-05-15 22:37:19",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "informations_personnelles": {
+    "nom": "Hamza",
+    "prenom": "Ajermoun",
+    "email": "hamzaajermoun06@gmail.com",
+    "telephone": "+33758049726",
+    "adresse": "Ile-de-France, France"
+  },
+  "formation_et_education": [
+    {
+      "diplome": "Master Big Data & Intelligence Artificielle",
+      "ecole": "Hetic, Paris",
+      "dates": "2024 - 2025"
+    },
+    {
+      "diplome": "Licence Mathématiques Appliquées",
+      "ecole": "Université de Reims",
+      "dates": "2020 - 2021"
+    },
+    {
+      "diplome": "Licence Fondamentale en Mathématiques et Applications",
+      "ecole": "Université Hassan 2",
+      "dates": "2019 - 2020"
+    },
+    {
+      "diplome": "DEUG - Mathématiques & Applications",
+      "ecole": "Université Hassan 2",
+      "dates": "2016 - 2018"
+    }
+  ],
+  "experience_professionnelle": [
+    {
+      "entreprise": "Hetic, Paris",
+      "poste": "OCR Matching System - Streamlit & NLP",
+      "dates": "Non spécifié",
+      "description": [
+        "Extraction d'informations depuis des requêtes scannées (OCR via Mixtral AI)",
+        "Matching flux avec relevé bancaire (fuzzy matching : montant, date, commerçant)"
+      ]
+    },
+    {
+      "entreprise": "Projet personnel",
+      "poste": "LLM-Powered Document Assistant - LangChain & FAISS",
+      "dates": "Non spécifié",
+      "description": [
+        "Développement d'une application interactive permettant de poser des questions à partir de documents PDF multiples.",
+        "Implémentation de l'extraction de texte, la recherche sémantique et la génération de réponses avec LangChain, FAISS et Google Generative AI.",
+        "Déploiement de l'application sur Streamlit avec une interface conviviale."
+      ]
+    },
+    {
+      "entreprise": "Hetic, Paris",
+      "poste": "Sentiment Classification Pipeline - NLP avec BERT",
+      "dates": "Non spécifié",
+      "description": [
+        "Collecte et prétraitement des données.",
+        "Utilisation de BERT pour l'analyse de sentiments.",
+        "Entraînement de modèles supervisés."
+      ]
+    },
+    {
+      "entreprise": "Hetic, Paris",
+      "poste": "ETL Pipeline - Python, PostgreSQL & Docker",
+      "dates": "Non spécifié",
+      "description": [
+        "Développement d'un pipeline ETL local pour nettoyer, transformer et charger des données CSV dans une base PostgreSQL.",
+        "Automatisation du pipeline avec un script Python.",
+        "Architecture légère, reproductible sur tout environnement via un Dockerfile."
+      ]
+    }
+  ],
+  "competences_techniques": [
+    "Python, R, SQL, Pandas, Excel, Talend, SAS",
+    "Machine Learning & Deep Learning : TensorFlow, Keras, Scikit-learn, PySpark, OpenCV",
+    "Modèles : BERT, LSTM, CNN, ResNet50, LLM, NLP",
+    "Big Data & Cloud : Hadoop, Spark, Kafka, Docker, AWS, Azure, Google Cloud",
+    "Bases de données : MongoDB, Elasticsearch, P/SQL",
+    "Visualisation : Power BI, Tableau, Seaborn, Plotly",
+    "DevOps & MLOps : LangChain, FAISS, Git, Streamlit"
+  ],
+  "langues": [
+    {
+      "langue": "Français",
+      "niveau": "Bilingue"
+    },
+    {
+      "langue": "Anglais",
+      "niveau": "Avancée"
+    },
+    {
+      "langue": "Arabe",
+      "niveau": "Langue maternelle"
+    }
+  ],
+  "certifications": [],
+  "_metadata": {
+    "filename": "CV_alternance_DS_DE_NV.pdf",
+    "analyzed_at": "2025-05-15 22:36:47",
+    "model": "pixtral-12b-2409",
+    "pages_analyzed": 1,
+    "is_page": false
+  }
+}

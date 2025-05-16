@@ -1,0 +1,17 @@
+{
+  "cv_ids": [
+    "Alternance_kawtar_CV",
+    "cv (8)",
+    "CV_alternance_DS_DE_NV",
+    "CV_Ayoub JELLOULI_DD",
+    "CV_KhaldiOmar 1",
+    "Fares SAKER",
+    "GHORBEL_Ghassen_CV 1",
+    "Kenza_OUYAHIA",
+    "MonCVAl_A"
+  ],
+  "n_components": 9,
+  "min_df": 0.01,
+  "max_df": 0.95,
+  "vocabulary_size": 590
+}
